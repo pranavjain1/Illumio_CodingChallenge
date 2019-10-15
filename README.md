@@ -30,7 +30,7 @@ Future Optimization:
 If I had more time, I would have liked to increase the efficiency of the for loop that goes through every single sub rule for a certain key. This could take a significant amount of time if the array list is very large.
 
 Team:
-I would be interested in working in the Data Team.
+I would be interested in working in the Data Team as I love to work on visualization and deriving visual data stories from complex data to answer about current and historical data and so much more.
 
 Thank you for taking the time to read through this.
 
