@@ -1,4 +1,4 @@
-# Illumio_CodingChallenge
+# Illumio_Coding_Challenge
 Illumio Coding Challenge 
 
 Thank you, Illumio for giving me the opportunity to work on this problem.
