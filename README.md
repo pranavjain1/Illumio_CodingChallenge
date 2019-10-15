@@ -4,7 +4,7 @@ Illumio Coding Challenge
 Thank you, Illumio for giving me the opportunity to work on this problem.
 
 I have written the code within the time limit of 90 minutes apart from writing this read me file.
-Time : EST 6:35 PM to 8:05 PM
+Time: EST 6:35 PM to 8:05 PM
 (and extra 15 minutes to write this Readme.)
 
 Code Explanation:
@@ -14,7 +14,7 @@ Illumio_Firewall.java The main class with a constructor that takes in a file pat
 The time complexity to insert would be O(1) for a single IP and a single Port.
 The time complexity for look-up will always be constant.
 
-Assumptions :
+Assumptions:
 This program will always assume that the input is valid. I ran out of time before I could test more inputs.
 
 Testing:
@@ -27,7 +27,7 @@ Medium port range, long IP range. (Passed)
 Long port range, long IP range. (Passed).
 
 Future Optimization:
-If I had more time, I would have liked to increase the efficiency of the for loop that goes through every single subrule for a certain key. This could take a significant amount of time if the arraylist is very large.
+If I had more time, I would have liked to increase the efficiency of the for loop that goes through every single sub rule for a certain key. This could take a significant amount of time if the array list is very large.
 
 Team:
 I would be interested in working in the Data Team.
