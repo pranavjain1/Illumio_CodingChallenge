@@ -4,7 +4,7 @@ Illumio Coding Challenge
 Thank you, Illumio for giving me the opportunity to work on this problem.
 
 I have written the code within the time limit of 90 minutes apart from writing this read me file.
-Time: EST 6:35 PM to 8:05 PM
+Time: Oct 14th 2019 EST 6:35 PM to 8:05 PM
 (and extra 15 minutes to write this Readme.)
 
 Code Explanation:
